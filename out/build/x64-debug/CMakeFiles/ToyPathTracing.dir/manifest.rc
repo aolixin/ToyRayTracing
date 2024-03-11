@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/Documents/work/cppProject/ToyPathTracing/out/build/x64-debug/CMakeFiles/ToyPathTracing.dir/embed.manifest"

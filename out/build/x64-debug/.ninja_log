@@ -1,0 +1,6 @@
+# ninja log v5
+7	258	7309174429902501	CMakeFiles/ToyPathTracing.dir/src/glad.c.obj	78dccd4addc6a6a4
+2	729	7309181851358744	CMakeFiles/ToyPathTracing.dir/test2.cpp.obj	24a9df0c9296276d
+791	1077	7309174437945972	bin/ToyPathTracing.exe	e23a64399c46cd5d
+1046	1225	7309194968242851	ToyPathTracing.exe	e1594a856331974d
+2	1046	7309194966755204	CMakeFiles/ToyPathTracing.dir/test3.cpp.obj	2c2217a300617e28
